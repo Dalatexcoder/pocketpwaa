@@ -5,4 +5,11 @@ h1 {
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+  color: #FFFFFF
+  background-color: #000000
+}
+
+p {
+  color: #FFFFFF
+  background-color: #000000
 }
