@@ -1,5 +1,5 @@
 * {margin: 0; padding: 0; box-sizing: border-box;}
-body {font-family: Arial, sans-serif; line-height: 1.6;}
+body {font-family: Mozilla Headline, sans-serif; line-height: 1.6;}
 
 header {
   position: fixed;
@@ -65,10 +65,8 @@ h1 {
   font-style: normal;
   font-variation-settings: "wdth" 100;
   color: #FFFFFF;
-  background-color: #000000;
 }
 
 p {
   color: #FFFFFF;
-  background-color: #000000;
 }
